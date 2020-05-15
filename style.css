@@ -135,11 +135,10 @@
 
 .hero {
     width: 1219px;
-    padding-left: 55px;
-    padding-right: 55px;
+
     margin-left: auto;
     margin-right: auto;
-    margin-top: -40px;
+    
 }
 
 .background2 {
@@ -159,8 +158,6 @@
 
 .introduction {
     width: 1219px;
-    padding-left: 55px;
-    padding-right: 55px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 150px;
@@ -187,16 +184,15 @@
     font-size: 32px;
     font-style: normal;
     font-weight: normal;
-    margin-top: 20px;
+    margin-top: 40px;
     text-align: justify;
-    margin: auto;
+    
 }
 
 .team {
     width: 1219px;
     height: 845px;
-    padding-left: 55px;
-    padding-right: 55px;
+    
     background-color: #EEEEEE;
     margin-left: auto;
     margin-right: auto;
@@ -323,8 +319,6 @@ footer {
     width: 1219px;
     height: 176px;
     background-color: #333333;
-    padding-left: 55px;
-    padding-right: 55px;
     margin-left: auto;
     margin-right: auto;
     margin-top: -15px;
