@@ -1,0 +1,343 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.content {
+    width: 1219px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin: auto;
+}
+
+.navbar {
+    position: fixed;
+    width: 1219px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: #007765;
+    height: 84px;
+    z-index: 2;
+}
+
+.logo1 {
+    position: fixed;
+    margin-left: 55px;
+    margin-top: 20px;
+}
+
+.logo2 {
+    position: fixed;
+    margin-left: 50px;
+    margin-top: 18px;
+}
+
+.problem__navbar {
+    color: white;
+    position: fixed;
+    margin-left: 741px;
+    margin-top: 25px;
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.line1 {
+    position: fixed;
+    width: 7px;
+    height: 29px;
+    margin-left: 865px;
+    margin-top: 28px;
+    background-color: white;
+}
+
+.coin__navbar {
+    color: white;
+    position: fixed;
+    margin-left: 893px;
+    margin-top: 25px;
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.line2 {
+    position: fixed;
+    width: 7px;
+    height: 29px;
+    margin-left: 1045px;
+    margin-top: 29px;
+    background-color: white;
+}
+
+.team__navbar {
+    color: white;
+    position: fixed;
+    margin-left: 1070px;
+    margin-top: 25px;
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.pipernet {
+    width: 1219px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin: auto;
+}
+
+.background1 {
+    width: 1219px;
+    height: 403px;
+    margin-top: 35px;
+}
+
+.title__pipernet {
+    font-family: Roboto;
+    font-size: 72px;
+    color: white;
+    z-index: 1;
+    margin-top: -250px;
+    text-align: center;
+}
+
+.title__problem {
+    text-align: center;
+    color: #007765;
+    font-family: Roboto;
+    font-size: 64px;
+    margin: auto;
+    padding-top: 48px;
+}
+.problem {
+    width: 1219px;
+    height: 719px;
+    font-family: Roboto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 160px;
+    background-color: #EEEEEE;
+}
+
+.content__problem {
+    font-size: 32px;
+    width: 1110px;
+    padding-left: 55px;
+    padding-top: 20px;
+}
+
+.hero {
+    width: 1219px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+}
+
+.background2 {
+    width: 1219px;
+    height: 483px;
+    margin-top: 1px;
+}
+
+.content__hero {
+    font-family: Roboto;
+    font-size: 48px;
+    color: white;
+    margin-top: -350px;
+    z-index: 1;
+    text-align: center;
+}
+
+.introduction {
+    width: 1219px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    background-color: #FFFFFF;
+    font-family: Roboto;
+}
+
+.title__introduction {
+    text-align: center;
+    color: #007765;
+    font-family: Roboto;
+    font-size: 64px;
+    margin: auto;
+    padding-top: 48px;
+}
+
+.ppc_logo {
+    padding-left: 20px;
+    margin: 7px 60px 7px 0;
+    float: left;
+}
+
+.content__intro {
+    font-size: 32px;
+    font-style: normal;
+    font-weight: normal;
+    margin-top: 20px;
+    text-align: justify;
+    margin: auto;
+}
+
+.team {
+    width: 1219px;
+    height: 845px;
+    padding-left: 55px;
+    padding-right: 55px;
+    background-color: #EEEEEE;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    font-family: Roboto;
+}
+
+
+.title__team {
+    text-align: center;
+    color: #007765;
+    font-family: Roboto;
+    font-size: 64px;
+    margin: auto;
+    padding-top: 48px;
+}
+
+.cards__team {
+    width: 1219px;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.name_richard {
+    font-weight: bold;
+    font-size: 24px;
+    color: #007765;
+    text-align: center;
+}
+
+.work_richard {
+    font-style: italic;
+    font-size: 18px;
+    padding-left: 30px;
+    margin-top: -20px;
+}
+
+
+.name_dinesh {
+    font-weight: bold;
+    font-size: 24px;
+    color: #007765;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.work_dinesh {
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.name_gilfoyle {
+    font-weight: bold;
+    font-size: 24px;
+    color: #007765;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.work_gilfoyle {
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.break {
+    width: 100%;
+    height: 60px;
+}
+
+.name_jared {
+    font-weight: bold;
+    font-size: 24px;
+    color: #007765;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.work_jared {
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.name_monica {
+    font-weight: bold;
+    font-size: 24px;
+    color: #007765;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.work_monica {
+    font-style: italic;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.name_bighead {
+    font-weight: bold;
+    font-size: 24px;
+    color: #007765;
+    margin: auto;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.work_bighead {
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+footer {
+    width: 1219px;
+    height: 176px;
+    background-color: #333333;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15px;
+    font-family: Roboto;
+}
+
+.content__footer {
+    width: 540px;
+    color: white;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    padding-top: 60px;
+}
